@@ -1,2 +1,1 @@
-# My-first-site
-In this project I used only standard html and css elements, and I tried to reproduce the site: https://www.w3schools.com/w3css/tryw3css_templates_fashion_blog.htm.
+In this project, I used only standard HTML and CSS to accurately replicate the design and layout of the following website: W3Schools Fashion Blog Template. The goal was to enhance my front-end development skills by focusing on structure, styling, and responsiveness without relying on additional frameworks or libraries.
